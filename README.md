@@ -1,2 +1,2 @@
 # simple-rpc
-a simple rpc framework
+a simple rpc framework implemented by python.
